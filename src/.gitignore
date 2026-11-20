@@ -1,0 +1,19 @@
+# .NET build files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment and local settings
+.env
+.env.*
+appsettings.Development.json
+
+# IDE files
+.idea/
